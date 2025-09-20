@@ -14,15 +14,13 @@ Pengguna dapat menambahkan, menghapus, mengimpor, dan mengekspor data, serta mel
   - Pendapatan per Bulan  
   - Pekerjaan
 - **Upload Foto** untuk setiap entri.
-- **Visualisasi Data**:
-  - Pie chart distribusi klasifikasi.
-  - Bar chart rata-rata pendapatan per tingkat pendidikan.
+
 - **Export / Import**:
   - Ekspor ke **PDF** (dengan tata letak rapi).
   - Ekspor & impor ke/dari **Excel (.xlsx)**.
 
 ## 🛠️ Teknologi
-- **Python 3.12+**
+- **Python 3.13+**
 - **Streamlit 1.49+**
-- **SQLite** (database default, tidak perlu server)
-- **Pandas**, **Matplotlib**, **FPDF**, **Pillow**, **OpenPyXL**
+- **MySql** 
+- **Pandas**,**FPDF**, **Pillow**, **OpenPyXL**
